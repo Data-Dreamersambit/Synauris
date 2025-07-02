@@ -9,8 +9,8 @@ const Testimonials = () => {
 
   const testimonials = [
     {
-      name: "Sarah Chen",
-      role: "Senior Developer at Google",
+      name: "Anishka Swaran",
+      role: "Chief Executive Officier",
       quote: "Synauris transformed my career. The real-world projects prepared me for challenges I face every day at work.",
       avatar: "https://images.unsplash.com/photo-1494790108755-2616b612b19c?w=80&h=80&fit=crop&crop=face"
     },
@@ -20,6 +20,30 @@ const Testimonials = () => {
       quote: "The business strategy course gave me frameworks I use daily. The mentorship was invaluable for my growth.",
       avatar: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=80&h=80&fit=crop&crop=face"
     },
+    {
+      name: "Emily Rodriguez",
+      role: "UX Designer at Airbnb",
+      quote: "From beginner to professional in 6 months. The design thinking approach revolutionized how I solve problems.",
+      avatar: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=80&h=80&fit=crop&crop=face"
+    }
+    {
+      name: "Emily Rodriguez",
+      role: "UX Designer at Airbnb",
+      quote: "From beginner to professional in 6 months. The design thinking approach revolutionized how I solve problems.",
+      avatar: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=80&h=80&fit=crop&crop=face"
+    }
+    {
+      name: "Emily Rodriguez",
+      role: "UX Designer at Airbnb",
+      quote: "From beginner to professional in 6 months. The design thinking approach revolutionized how I solve problems.",
+      avatar: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=80&h=80&fit=crop&crop=face"
+    }
+    {
+      name: "Emily Rodriguez",
+      role: "UX Designer at Airbnb",
+      quote: "From beginner to professional in 6 months. The design thinking approach revolutionized how I solve problems.",
+      avatar: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=80&h=80&fit=crop&crop=face"
+    }
     {
       name: "Emily Rodriguez",
       role: "UX Designer at Airbnb",
